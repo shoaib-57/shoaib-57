@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Shoaib 👋
 
-<!--
-**shoaib-57/shoaib-57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Web Developer | Java Learner  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- Java (Learning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🌾 AI Farmer Query Support System
+A system that helps farmers get solutions using AI  
+🔗 https://github.com/shoaib-57/[repo-link]
+
+### 🎓 Campus Connect
+A platform for improving campus communication  
+🔗 https://github.com/shoaib-57/[repo-link]
+
+## 📈 Currently Learning
+- Advanced Java
+- Backend Development
+
+## 📫 Connect With Me
+- LinkedIn: [your link]
