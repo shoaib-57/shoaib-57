@@ -23,4 +23,4 @@ A platform for improving campus communication
 - Backend Development
 
 ## 📫 Connect With Me
-- LinkedIn: [your link]
+- LinkedIn: [ ]
